@@ -1,0 +1,4 @@
+Nodes: Physical or virtual nodes: hosting applications
+Worker nodes: loads containers. 
+Control nodes: Monitoring and controlling nodes.
+
